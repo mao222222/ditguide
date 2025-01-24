@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DIT GUIDE</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        #searchResults {
+            display: none;
+            margin-top: 20px;
+            border: 1px solid #ddd;
+            padding: 10px;
+            border-radius: 5px;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 5px;
+        }
+
+        .description {
+            margin-top: 10px;
+        }
+
+        .suggestion {
+            margin-top: 5px;
+            padding: 5px;
+            border-bottom: 1px solid #ddd;
+            cursor: pointer;
+        }
+
+        .suggestion:hover {
+            background-color: #f0f0f0;
+        }
+    </style>
+</head>
+<body align="center">
+    <h1>DIT GUIDE</h1>
+<hr/>
+    <label for="search">WELCOME DIT GUIDE</label>
+    <input type="text" id="search" placeholder="search here....." oninput="searchLocation()">
+    
+    <div id="suggestions"></div>
+
+    <div id="searchResults">
+        <img id="searchImage" src="" alt="Picha ya Eneo">
+        <div id="searchDescription" class="description"></div>
+    </div>
+
+    <script src="script.js"></script>
+<hr/>
+</body>
+<footer>
+ <div>
+   <a><b>Created by:</b>Muktari Abubakari.</a>
+
+ </div>
+ <a>2025 For DIT</a>
+  <h2>CONTACT</h2>
+ <a href="muktaomary@gmail.com">muktaomary@gmail.com</a>
+</footer>
+</html>
