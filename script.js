@@ -1,12 +1,12 @@
 // Data ya maeneo
 const locations = {
-    "maktaba": {
+    "alama zinazoitajika ili kuweza kufanya university examination (ue)": {
         image: "https://via.placeholder.com/600x400?text=Maktaba",
-        description: "Maktaba ya chuo iko karibu na lango kuu. Ni mahali tulivu kwa kusoma."
+        description: "ilikuweza kufanya university examination (ue) unatakiwa kwenye quiz,test,na kazi nyingine utakazopewa na lecturer wa iyo module ufikishe alama 24 kati ya 60"
     },
-    "darasa e203": {
+    "alama ngapi zinaitajika ilikufaulu university examination (ue)": {
         image: "https://via.placeholder.com/600x400?text=Darasa+E203",
-        description: "Darasa E203 linapatikana ghorofa ya pili kwenye jengo la Kati."
+        description: "ilikufaulu university examination(ue) unatakiwa uwe na alama 16 kati ya 40."
     },
     "maabara ya kompyuta": {
         image: "images/star.png",
