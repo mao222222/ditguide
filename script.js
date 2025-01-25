@@ -8,9 +8,9 @@ const locations = {
         image: "https://via.placeholder.com/600x400?text=Darasa+E203",
         description: "ilikufaulu university examination(ue) unatakiwa uwe na alama 16 kati ya 40."
     },
-    "maabara ya kompyuta": {
+    "nielekeze library 1": {
         image: "images/star.png",
-        description: "Maabara ya kompyuta iko kwenye jengo la TEHAMA, ghorofa ya kwanza."
+        description: "Ukipitia lango kuu ambalo linaambatana na kituo Cha mwendo Kasi tembea hatua chache mkono wa kulia baada ya ofisi ya walinzi jengo linalofuata ingia ndani floor ya Kwanza ndani ya ilo jengo ndio library 1"
     },
     "maabara ya madam":{
         image: "images/star.png",
