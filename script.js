@@ -23,7 +23,7 @@ const locations = {
     "nielekeze stationery":{
         image: "images/star.png",
         description: "Ukipitia lango kuu ambalo linaambatana na kituo Cha mwendo Kasi tembea hatua chache baada ya ofisi ya walinzi jengo linalofuata mkono wa kulia lililotazamana na jengo la library kunaduka hapo ambalo ndio stationery ya DIT"
-         }
+         },
 };
 
 // Kazi ya kutafuta maeneo
