@@ -2,11 +2,11 @@
 const locations = {
     "alama zinazoitajika ili kuweza kufanya university examination (ue)": {
         image: "https://via.placeholder.com/600x400?text=Maktaba",
-        description: "ilikuweza kufanya university examination (ue) unatakiwa kwenye quiz,test,na kazi nyingine utakazopewa na lecturer wa iyo module ufikishe alama 24 kati ya 60"
+        description: "ilikuweza kufanya university examination (ue) unatakiwa kwenye quiz,test,na kazi nyingine utakazopewa na lecturer wa iyo module ufikishe alama kuanzia 24 kati ya 60"
     },
     "alama ngapi zinaitajika ilikufaulu university examination (ue)": {
         image: "https://via.placeholder.com/600x400?text=Darasa+E203",
-        description: "ilikufaulu university examination(ue) unatakiwa uwe na alama 16 kati ya 40."
+        description: "ilikufaulu university examination(ue) unatakiwa uwe na alama kuanzia 16 kati ya 40."
     },
     "nielekeze library 1": {
         image: "images/star.png",
