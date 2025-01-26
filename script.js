@@ -10,7 +10,11 @@ const locations = {
     },
     "nielekeze library 1": {
         image: "images/star.png",
-        description: "Ukipitia lango kuu ambalo linaambatana na kituo Cha mwendo Kasi tembea hatua chache mkono wa kulia baada ya ofisi ya walinzi jengo linalofuata ingia ndani floor ya Kwanza ndani ya ilo jengo ndio library 1"
+        description: "Ukipitia lango kuu ambalo linaambatana na kituo Cha mwendo Kasi tembea hatua chache mkono wa kulia baada ya ofisi ya walinzi jengo linalofuata ingia ndani ya ilo jengo floor ya Kwanza ndio library 1"
+    },
+    "nielekeze library 2": {
+        image: "images/star.png",
+        description: "Ukipitia lango kuu ambalo linaambatana na kituo Cha mwendo Kasi tembea hatua chache mkono wa kulia baada ya ofisi ya walinzi jengo linalofuata ingia ndani ya ilo jengo floor ya pili ukiingia angalia kuelekea kituo Cha mwendo Kasi kilipo piga hatua chache mbele ingia mlango uliopo mkono wako kulia humo ndio library 2"
     },
     "maabara ya madam":{
         image: "images/star.png",
