@@ -10,15 +10,19 @@ const locations = {
     },
     "nielekeze library 1": {
         image: "images/star.png",
-        description: "Ukipitia lango kuu ambalo linaambatana na kituo Cha mwendo Kasi tembea hatua chache mkono wa kulia baada ya ofisi ya walinzi jengo linalofuata ingia ndani ya ilo jengo floor ya Kwanza ndio library 1"
+        description: "Ukipitia lango kuu ambalo linaambatana na kituo Cha mwendo Kasi tembea hatua chache  baada ya ofisi ya walinzi jengo linalofuata mkono wa kushoto ,ingia ndani ya ilo jengo floor ya Kwanza ndio library 1"
     },
     "nielekeze library 2": {
         image: "images/star.png",
-        description: "Ukipitia lango kuu ambalo linaambatana na kituo Cha mwendo Kasi tembea hatua chache mkono wa kulia baada ya ofisi ya walinzi jengo linalofuata ingia ndani ya ilo jengo floor ya pili ukiingia angalia kuelekea kituo Cha mwendo Kasi kilipo piga hatua chache mbele ingia mlango uliopo mkono wako kulia humo ndio library 2"
+        description: "Ukipitia lango kuu ambalo linaambatana na kituo Cha mwendo Kasi tembea hatua chache baada ya ofisi ya walinzi jengo linalofuata mkono wa kulia, ingia ndani ya ilo jengo floor ya pili ukiingia angalia kuelekea kituo Cha mwendo Kasi DIT kilipo piga hatua chache mbele ingia mlango uliopo mkono wako wa kushoto humo ndio library 2"
     },
-    "maabara ya madam":{
+    "nielekeze library 3": {
         image: "images/star.png",
-        description: "ghorofa ya kwanza njee ya w3"
+        description: "Ukipitia lango kuu ambalo linaambatana na kituo Cha mwendo Kasi tembea hatua chache baada ya ofisi ya walinzi jengo linalofuata mkono wa kulia, ingia ndani ya ilo jengo floor ya pili ukiingia angalia kuelekea kituo Cha mwendo Kasi kilipo piga hatua chache mbele ingia mlango uliopo mkono wako wa kulia upande wa kituo Cha mwendo  Kasi DIT kilipo humo ndio library 3"
+    },
+    "nielekeze stationery":{
+        image: "images/star.png",
+        description: "Ukipitia lango kuu ambalo linaambatana na kituo Cha mwendo Kasi tembea hatua chache baada ya ofisi ya walinzi jengo linalofuata mkono wa kulia lililotazamana na jengo la library kunaduka hapo ambalo ndio stationery ya DIT"
          }
 };
 
