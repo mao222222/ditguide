@@ -20,10 +20,10 @@ const locations = {
         image: "images/star.png",
         description: "Ukipitia lango kuu ambalo linaambatana na kituo Cha mwendo Kasi tembea hatua chache baada ya ofisi ya walinzi jengo linalofuata mkono wa kulia, ingia ndani ya ilo jengo floor ya pili ukiingia angalia kuelekea kituo Cha mwendo Kasi kilipo piga hatua chache mbele ingia mlango uliopo mkono wako wa kulia upande wa kituo Cha mwendo  Kasi DIT kilipo humo ndio library 3"
     },
-    "nielekeze stationery":{
+    "nielekeze stationery": {
         image: "images/star.png",
         description: "Ukipitia lango kuu ambalo linaambatana na kituo Cha mwendo Kasi tembea hatua chache baada ya ofisi ya walinzi jengo linalofuata mkono wa kulia lililotazamana na jengo la library kunaduka hapo ambalo ndio stationery ya DIT"
-         },
+   },
 };
 
 // Kazi ya kutafuta maeneo
