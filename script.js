@@ -14,11 +14,15 @@ const locations = {
     },
     "nielekeze library 2": {
         image: "images/star.png",
-        description: "Ukipitia lango kuu ambalo linaambatana na kituo Cha mwendo Kasi tembea hatua chache baada ya ofisi ya walinzi jengo linalofuata mkono wa kulia, ingia ndani ya ilo jengo floor ya pili ukiingia angalia kuelekea kituo Cha mwendo Kasi DIT kilipo piga hatua chache mbele ingia mlango uliopo mkono wako wa kushoto humo ndio library 2"
+        description: "Ukipitia lango kuu ambalo linaambatana na kituo Cha mwendo Kasi tembea hatua chache baada ya ofisi ya walinzi jengo linalofuata mkono wa kushoto, ingia ndani ya ilo jengo floor ya pili ukiingia angalia kuelekea kituo Cha mwendo Kasi DIT kilipo piga hatua chache mbele ingia mlango uliopo mkono wako wa kushoto humo ndio library 2"
     },
     "nielekeze library 3": {
         image: "images/star.png",
-        description: "Ukipitia lango kuu ambalo linaambatana na kituo Cha mwendo Kasi tembea hatua chache baada ya ofisi ya walinzi jengo linalofuata mkono wa kulia, ingia ndani ya ilo jengo floor ya pili ukiingia angalia kuelekea kituo Cha mwendo Kasi kilipo piga hatua chache mbele ingia mlango uliopo mkono wako wa kulia upande wa kituo Cha mwendo  Kasi DIT kilipo humo ndio library 3"
+        description: "Ukipitia lango kuu ambalo linaambatana na kituo Cha mwendo Kasi tembea hatua chache baada ya ofisi ya walinzi jengo linalofuata mkono wa kushoto, ingia ndani ya ilo jengo floor ya pili ukiingia angalia kuelekea kituo Cha mwendo Kasi kilipo piga hatua chache mbele ingia mlango uliopo mkono wako wa kulia upande wa kituo Cha mwendo  Kasi DIT kilipo humo ndio library 3"
+    },
+        "nielekeze teaching tower(TT) mezanine": {
+        image: "images/star.png",
+        description: "Ukipitia lango kuu ambalo linaambatana na kituo Cha mwendo Kasi tembea hatua chache baada ya ofisi ya walinzi jengo linalofuata kata mkono wa kushoto,Tembea hatua chache mbele upande wa mkono wako wakulia utaona ghorofa refu kupitia yote hapo ndio TT ingia humo floor ya Kwanza ndio mezanine"
     },
     "nielekeze stationery": {
         image: "images/star.png",
